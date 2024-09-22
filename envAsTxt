@@ -1,0 +1,5 @@
+
+ENDPOINT = https://name.documents.azure.com:443/
+COSMOS_DB_KEY = 2wEF14K4FXaJDFMUi6xcciKiS0ACDbWJwNEg==
+DATABASE_NAME = SportsScoresDB
+CONNECTION_STRING = AccountEndpoint=https://name.documents.azure.com:443/;AccountKey=2wEF14K4FXaJDFMUi4msMQpfWJwNEg==;

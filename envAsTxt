@@ -1,5 +1,6 @@
+# Example .env file for configuring Cosmos DB connection
 
-ENDPOINT = https://name.documents.azure.com:443/
-COSMOS_DB_KEY = 2wEF14K4FXaJDFMUi6xcciKiS0ACDbWJwNEg==
-DATABASE_NAME = SportsScoresDB
-CONNECTION_STRING = AccountEndpoint=https://name.documents.azure.com:443/;AccountKey=2wEF14K4FXaJDFMUi4msMQpfWJwNEg==;
+ENDPOINT=https://your-cosmosdb-account.documents.azure.com:443/
+COSMOS_DB_KEY=your_cosmosdb_primary_key
+DATABASE_NAME=SportsScoresDB
+CONNECTION_STRING=AccountEndpoint=https://your-cosmosdb-account.documents.azure.com:443/;AccountKey=your_cosmosdb_primary_key;
